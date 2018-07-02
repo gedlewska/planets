@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Planets_01</string>
+    <string name="solar_system">Solar System</string>
+    <string name="choose_planet">Choose one of the planets located in the Solar System in order to learn more:</string>
+    <string name="read">read</string>
+
+</resources>

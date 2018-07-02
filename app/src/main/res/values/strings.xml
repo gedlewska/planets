@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Planety_01</string>
+    <string name="solar_system">Układ Słoneczny</string>
+    <string name="choose_planet">Wybierz planetę Układu Słonecznego, aby dowiedzieć się więcej:</string>
+    <string name="read">przeczytano</string>
+
+</resources>
