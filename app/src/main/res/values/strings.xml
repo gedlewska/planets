@@ -3,5 +3,6 @@
     <string name="solar_system">Układ Słoneczny</string>
     <string name="choose_planet">Wybierz planetę Układu Słonecznego, aby dowiedzieć się więcej:</string>
     <string name="read">przeczytano</string>
+    <string name="source">Źródło: https://www.wikipedia.org/</string>
 
 </resources>
